@@ -47,6 +47,21 @@ This is a professional-grade aviation weather monitoring system that leverages a
 5.  *Monitor Live Conditions:* The "Live Monitoring Dashboard" section displays real-time weather metrics, alerts, and historical trends.
 6.  *Enable Continuous Monitoring:* Check the "Enable Continuous Monitoring" box to activate automatic weather updates and alerts every 5 minutes.
 
+![Screenshot 2025-05-06 192346](https://github.com/user-attachments/assets/be1bf8e7-6f77-4c7a-89a5-2e5c13800982)
+
+![Screenshot 2025-05-06 192409](https://github.com/user-attachments/assets/d0d1b573-bce7-470b-97f6-52fe28233ce3)
+
+![Screenshot 2025-05-06 192427](https://github.com/user-attachments/assets/7d97cc4e-2c77-4976-9004-e8019f7bba16)
+
+![Screenshot 2025-05-06 192450](https://github.com/user-attachments/assets/e3f3c6e1-af02-49e8-a014-4e5028def8af)
+
+![Screenshot 2025-05-06 192510](https://github.com/user-attachments/assets/1e078471-622b-4eeb-8810-9f9833651a71)
+
+
+
+
+
+
 ## Code Structure
 
 The code is organized into several key sections:
