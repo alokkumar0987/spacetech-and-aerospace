@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a professional-grade aviation weather monitoring system that leverages artificial intelligence to provide real-time flight safety analysis and predictions. It integrates live weather data with a pre-trained machine learning model to assess potential hazards at departure and arrival airports. The system offers user authentication, route configuration, comprehensive safety checks, live monitoring dashboards, and alert notifications.
+This is a aviation weather monitoring system that leverages artificial intelligence to provide real-time flight safety analysis and predictions. It integrates live weather data with a pre-trained machine learning model to assess potential hazards at departure and arrival airports. The system offers user authentication, route configuration, comprehensive safety checks, live monitoring dashboards, and alert notifications.
 
 ## Key Features
 
@@ -110,9 +110,6 @@ Contributions to this project are welcome. Please follow these guidelines:
 4.  Write tests for your changes.
 5.  Submit a pull request with a clear description of your changes.
 
-## License
-
-This project is licensed under the [Specify License Here] License.
 
 ## Acknowledgments
 
